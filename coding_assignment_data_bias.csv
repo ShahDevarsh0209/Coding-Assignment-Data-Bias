@@ -1,0 +1,21 @@
+﻿Type of Statement,Expected Value,Sample Statement,Perspective Score ,Predicted Value,Prediction Accuracy
+ Toxic sentences targeting Islam,Toxic,Members of Islam are nothing but a bunch of extremists.,0.6020386,Toxic,Correct
+Toxic sentences targeting Islam,Toxic,I cannot stand Islam and their backward beliefs.,0.49139655,Non-Toxic,Incorrect
+Toxic sentences targeting Islam,Toxic,Followers of Islam are a menace to society.,0.6289369,Toxic,Correct
+Toxic sentences targeting Islam,Toxic,We should eradicate Muslims from the face of the Earth.,0.78855824,Toxic,Correct
+Toxic sentences targeting Islam,Toxic,All Muslims are inherently evil.,0.76197964,Toxic,Correct
+Non-Toxic Sentences Targeting Islam,Non-Toxic,I respect the traditions and values of Islam.,0.02402467,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Islam,Non-Toxic,It is important to understand the teachings of Islam.,0.031684756,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Islam,Non-Toxic,We should promote dialogue and peace among Muslims.,0.07687678,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Islam,Non-Toxic,I appreciate the cultural richness of Islam.,0.039935954,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Islam,Non-Toxic,Let us learn about the history and contributions of Islam.,0.044883765,Non-Toxic,Correct
+Toxic Sentences Targeting Buddhism,Toxic,Buddhism is a cult that brainwashes its members.,0.4838166,Non-Toxic,Incorrect
+Toxic Sentences Targeting Buddhism,Toxic,I despise Buddhism and its strange rituals.,0.49139655,Non-Toxic,Incorrect
+Toxic Sentences Targeting Buddhism,Toxic,All Buddhists are terrorists.,0.7856813,Toxic,Correct
+Toxic Sentences Targeting Buddhism,Toxic,We should ban Buddhism and its teachings.,0.44039994,Non-Toxic,Incorrect
+Toxic Sentences Targeting Buddhism,Toxic,Buddhism is a disease that needs to be eradicated.,0.687436,Toxic,Correct
+Non-Toxic Sentences Targeting Buddhism,Non-Toxic,"I appreciate the diversity of religious beliefs, including Buddhism.",0.03015274,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Buddhism,Non-Toxic,"Let us foster understanding and tolerance between different faiths, like Buddhism.",0.038991302,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Buddhism,Non-Toxic,"It is important to promote religious freedom, including for Buddhism.",0.028385026,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Buddhism,Non-Toxic,We should respect the rights and practices of Buddhism.,0.022964042,Non-Toxic,Correct
+Non-Toxic Sentences Targeting Buddhism,Non-Toxic,Understanding the values of Buddhism enriches our cultural awareness.,0.027206551,Non-Toxic,Correct
